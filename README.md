@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vural Ata Yilmaz
 - 👀 I’m interested in Game Developing
-- 🌱 I’m currently learning CS50 and C#
+- 🌱 I’m currently learning C++ and C#
 - 📫 How to reach me;
 - My Email is: vuralatayilmaz08@hotmail.com
 - My Discord is: lahmacun.
